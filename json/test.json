@@ -1,8 +1,7 @@
 {
   "311": {
-    "test": ["tag1", "tag2"],
-    "test1": ["another", "again"],
-	"abcd": ["wow", "tag1"]
+    "address": ["street", "zipcode"],
+    "name": ["name"]
   }
 }
 

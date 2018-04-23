@@ -1,7 +1,7 @@
 {
-  "Bob": {
-    "data": ["along", "bob", "another"],
-    "ele": ["another", "again"]
+  "Police": {
+    "address": ["zipcode", "street"],
+    "latitude": ["latitude", "location"]
   }
 
 
