@@ -1,7 +1,10 @@
 {
   "Apple": {
     "core": ["tag1", "orange"],
-    "shell": ["teeth", "again"]
+    "shell": ["teeth", "again"],
+	"sea": ["wow"],
+	"Bourne": ["teeth", "tooth", "apple", "orange"],
+	"sea": ["money"]
   }
 }
 
