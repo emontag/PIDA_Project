@@ -12,4 +12,7 @@ Look at test.json to see proper formatting of json file. (name, columns, tags)
 
 Place all json files in json/
 
-
+# Dependencies
+1) python 3
+2) json capability
+3) anytree (pip install anytree)
