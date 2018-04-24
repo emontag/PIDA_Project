@@ -1,0 +1,22 @@
+{
+  "DOB Permit Issuance": {
+    "borough": ["location"],
+    "street_name": ["location", "streetaddress"],
+    "zip_code": ["location", "zipcode"],
+    "permittee's_first_name": ["name"],
+    "permittee's_last_name": ["name"],
+    "permittee's_phone": ["phone"],
+    "site_safety_mgr's_first_name": ["name"],
+    "site_safety_mgr's_last_name": ["name"],
+    "superintendent_name": ["name"],
+    "owner_s_first_name": ["name"],
+    "owner_s_last_name": ["name"],
+    "owner's_house_street_name": ["streetaddress", "location"],
+    "owner_s_zip_code": ["zipcode", "location"],
+    "owner's_phone": ["phone"],
+    "gis_latitude": ["latitude"],
+    "gis_longitude": ["longitude"]
+  }
+
+
+}

@@ -1,8 +1,0 @@
-{
-  "Police": {
-    "address": ["zipcode", "street"],
-    "latitude": ["latitude", "location"]
-  }
-
-
-}

@@ -1,0 +1,19 @@
+{
+  "DOB Job Application Filings": {
+    "borough": ["location"],
+    "street_name": ["location", "streetaddress"],
+    "Applicant's_first_name": ["name"],
+    "applicant's_last_name": ["name"],
+    "owner's_first_name": ["name"],
+    "owner's_last_name": ["name"],
+    "owner's_house_number": ["location"],
+    "owner's_house_street_name": ["location", "streetaddress"],
+    "zip": ["zipcode", "location"],
+    "owners_phone": ["phone"],
+    "gis_latitude":["location", "latitude"],
+    "gis_longitude": ["location", "longitude"]
+    
+  }
+
+
+}
