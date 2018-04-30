@@ -1,0 +1,12 @@
+{
+  "Medallion Vehicles - Authorized": {
+    "name": ["name"],
+    "expiration_date": ["dates"],
+    "agent_name": ["name"],
+    "agent_telephone_number": ["phone"],
+    "agent_address": ["location", "streetaddress"]
+    
+  }
+
+
+}
