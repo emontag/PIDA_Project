@@ -1,0 +1,14 @@
+{
+  "311 Service Requests from 2010 to Present": {
+    "created_date": ["dates"],
+    "closed_date": ["dates"],
+    "indident_zip": ["zipcode", "location"],
+    "street_name": ["location", "streetaddress"],
+    "borough": ["location"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "location": ["location"]
+  }
+
+
+}
