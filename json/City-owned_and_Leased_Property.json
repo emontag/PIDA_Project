@@ -1,0 +1,14 @@
+{
+  "City-owned and Leased Property (Local Law 48 of 2011)": {
+    "address": ["streetaddress"],
+    "zip_code": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"]
+    
+    
+    
+    
+  }
+
+
+}

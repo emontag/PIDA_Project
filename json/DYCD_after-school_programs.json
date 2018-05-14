@@ -1,0 +1,15 @@
+{
+  "DYCD after-school programs: Beacon Programs": {
+    "address": ["streetaddress"],
+    "post_code": ["zipcode"],
+    "contact_number": ["phone"],
+    "location_1": ["location"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"]
+    
+    
+    
+  }
+
+
+}

@@ -1,0 +1,16 @@
+{
+  "Greenbook": {
+    "first_name": ["name"],
+    "last_name": ["name"],
+    "address": ["streetaddress"],
+    "zip_code": ["zipcode"],
+    "longitude": ["longitude"],
+    "phone_1": ["phone"],
+    "phone_2": ["phone"]
+    
+    
+    
+  }
+
+
+}

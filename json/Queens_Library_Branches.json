@@ -1,0 +1,15 @@
+{
+  "Queens Library Branches": {
+    "address": ["streetaddress"],
+    "postcode": ["zipcode"],
+    "phone": ["phone"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"]
+    
+    
+    
+    
+  }
+
+
+}
