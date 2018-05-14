@@ -1,0 +1,12 @@
+{
+  "Parking Violations Issued - Fiscal Year": {
+    "violation_location": ["location"],
+    "violation_time": ["time"],
+    "street_name": ["streetaddress"]
+    
+    
+    
+  }
+
+
+}

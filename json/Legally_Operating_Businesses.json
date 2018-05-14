@@ -1,0 +1,15 @@
+{
+  "Legally Operating Businesses": {
+    "address_street_name": ["streetaddress"],
+    "address_zip": ["zipcode"],
+    "contact_phone": ["phone"],
+    "longitude": ["longitude"],
+    "latitude": ["latitude"],
+    "location": ["location"]
+   
+    
+    
+  }
+
+
+}

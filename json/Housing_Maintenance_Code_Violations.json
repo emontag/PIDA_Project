@@ -1,0 +1,11 @@
+{
+  "Housing Maintenance Code Violations": {
+    "streetname": ["streetaddress"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"]
+    
+    
+  }
+
+
+}

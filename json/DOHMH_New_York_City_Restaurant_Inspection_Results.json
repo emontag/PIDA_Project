@@ -1,0 +1,14 @@
+{
+  "DOHMH New York City Restaurant Inspection Results": {
+    "street": ["streetaddress"],
+    "zipcode": ["zipcode"],
+    "phone": ["phone"],
+    "inspection_date": ["dates"]
+    
+    
+    
+    
+  }
+
+
+}

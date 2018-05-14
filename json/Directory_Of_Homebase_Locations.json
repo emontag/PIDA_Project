@@ -1,0 +1,15 @@
+{
+  "Directory Of Homebase Locations": {
+    "service_area_zip_code": ["zipcode"],
+    "address": ["streetaddress"],
+    "phone_number": ["phone"],
+    "latitude": ["latitude"],
+    "longitude": ["latitude"]
+    
+    
+    
+    
+  }
+
+
+}

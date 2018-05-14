@@ -1,0 +1,12 @@
+{
+  "Film Permits": {
+    "startdatetime": ["date", "time"],
+    "enddatetime": ["date", "time"],
+    "zipcode_s": ["zipcode"],
+   
+    
+    
+  }
+
+
+}

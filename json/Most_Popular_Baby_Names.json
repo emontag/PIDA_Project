@@ -1,0 +1,14 @@
+{
+  "Most Popular Baby Names by Sex and Mother's Ethnic Group, New York City": {
+    "brth_yr": ["dates"],
+    "gndr": ["gender"],
+    "ethcty": ["ethnicity"],
+    "nm": ["name"]
+    
+    
+    
+    
+  }
+
+
+}

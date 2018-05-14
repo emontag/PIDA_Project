@@ -1,0 +1,17 @@
+{
+  "DOB NOW: Build – Approved Permits": {
+    "street_name": ["streetaddress"],
+    "applicant_first_name": ["name"],
+    "applicant_last_name": ["name"],
+    "filing_representative_first_name": ["name"],
+    "filing_representative_last_name": ["name"],
+    "owner_name": ["name"],
+    "owner_street_address": ["streetaddress"],
+    "owner_zip_code": ["zipcode"]
+    
+    
+    
+  }
+
+
+}

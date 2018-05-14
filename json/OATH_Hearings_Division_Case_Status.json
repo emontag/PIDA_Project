@@ -1,0 +1,18 @@
+{
+  "OATH Hearings Division Case Status": {
+    "respondent_first_name": ["name"],
+    "respondent_last_name": ["name"],
+    "violation_location_street_name": ["streetaddress"],
+    "violation_location_zip_code": ["zipcode"],
+    "respondent_address_street_name": ["streetaddress"],
+    "respondent_address_zip_code": ["zipcode"],
+    "hearing_date": ["date"],
+    "hearing_time": ["time"]
+    
+    
+    
+    
+  }
+
+
+}
