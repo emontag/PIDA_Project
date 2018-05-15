@@ -1,0 +1,9 @@
+{
+  "DOB Certificate Of Occupancy": {
+    "borough": ["location"],
+    "postcode": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "street_name": ["streetaddress"]
+  }
+}

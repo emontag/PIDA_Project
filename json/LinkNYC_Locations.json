@@ -1,0 +1,13 @@
+{
+  "LinkNYC Locations": {
+  	"cb_link_id": ["text"],
+  	"boro": ["location","streetaddress"],
+  	"community_board": ["number"],
+  	"council_district": ["number"],
+  	"latitude": ["latitude"],
+  	"longitude": ["longitude"],
+  	"street_address": ["streetaddress","location"],
+  	"postcode": ["zipcode"],
+  	"location": ["latitude","longitude"]
+}
+

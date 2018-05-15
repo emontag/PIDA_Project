@@ -1,0 +1,14 @@
+{
+  "Safe Routes to Schools - Priority Schools": {
+    "borough": ["location"],
+    "community_board": ["number"],
+    "school_type": ["institution_type"],
+    "school_name_id": ["name","number"],
+    "address": ["streetadress","location"],
+    "postcode": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "council_district": ["number"],
+    "census_tract": ["number"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Newsrack Inspections": {
+  	"newsracklocationid": ["number"],
+    "boroughname": ["streetaddress","location"],
+    "publishername": ["name"],
+    "publicationname": ["name"],
+    "onstreetname": ["streetaddress","location"],
+    "fromstreetname": ["streetaddress","location"],
+    "tostreetname": ["streetaddress","location"],
+    "compassdirection": ["locaion","name"],
+    "specificlocation": ["location"],
+    "communitydistrictleft": ["number"],
+    "lastinspecteddate": ["date","time"],
+    "lastinspectionresult": ["text"]
+  }
+}

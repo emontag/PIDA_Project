@@ -1,0 +1,10 @@
+{
+  "Civil List": {
+  	"calendar_year": ["date"],
+  	"dpt": ["number"],
+  	"name": ["name"],
+    "address": ["streetaddress","location"],
+    "pc": ["text"]
+  }
+}
+

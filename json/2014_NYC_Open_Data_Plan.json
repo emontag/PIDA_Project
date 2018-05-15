@@ -1,0 +1,11 @@
+{
+  "2014 NYC Open Data Plan": {
+  	"dataset": ["text"],
+  	"dataset_description": ["text"],
+  	"update_frequency": ["text"],
+    "type": ["text"],
+    "priority_classification": ["date","time"],
+    "link": ["url"]
+  }
+}
+

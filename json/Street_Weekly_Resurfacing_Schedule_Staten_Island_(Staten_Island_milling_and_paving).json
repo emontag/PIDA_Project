@@ -1,0 +1,9 @@
+{
+  "Street Weekly Resurfacing Schedule Staten Island (Staten Island milling and paving)": {
+    "day_date": ["date"],
+    "sa": ["name"],
+    "cb": ["number"],
+    "location": ["location"],
+    "area": ["streetaddress","location"]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Times Square Food & Beverage Locations": {
+    "company_name": ["name"],
+    "postcode": ["zipcode"],
+    "longitude": ["longitude"],
+    "latitude": ["latitude"],
+    "address": ["streetaddress"]
+  }
+}

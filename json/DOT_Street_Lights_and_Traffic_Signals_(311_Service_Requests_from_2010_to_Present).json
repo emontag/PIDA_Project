@@ -1,0 +1,25 @@
+{
+  "DOT Street Lights and Traffic Signals (311 Service Requests from 2010 to Present)": {
+  	"created_date": ["date"],
+  	"agency": ["institution_type"],
+  	"agency_name": ["name"],
+    "complaint_type": ["text"],
+    "descriptor": ["text"],
+    "incident_address": ["streetaddress","location"],
+    "street_name": ["streetaddress","location"],
+    "cross_street_1": ["streetaddress","location"],
+    "cross_street_2": ["streetaddress","location"],
+    "intersection_street_1": ["streetaddress","location"],
+    "intersection_street_2": ["streetaddress","location"],
+    "address_type": ["location"],
+    "city": ["location"],
+    "landmark": ["location"],
+    "community_board": ["name"],
+    "borough": ["location"],
+    "vehicle_type": ["vehicle_type"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "location": ["location"]
+  }
+}
+

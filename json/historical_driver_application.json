@@ -1,0 +1,7 @@
+{
+  "Historical Driver Application Status": {
+    "app_no": ["number"],
+    "type": ["text"],
+    "last_updated": ["dates"]
+  }
+}

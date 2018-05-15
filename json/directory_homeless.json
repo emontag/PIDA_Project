@@ -1,0 +1,9 @@
+{
+  "Directory Of Homeless Drop- In Centers": {
+    "postcode": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "street_name": ["streetaddress"],
+    "center_name": ["name"]
+  }
+}

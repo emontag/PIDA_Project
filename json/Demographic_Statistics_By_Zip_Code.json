@@ -1,0 +1,33 @@
+{
+  "Demographic Statistics By Zip Code": {
+    "jurisdiction_name": ["jurisdiction_name"],
+    "count_participants": ["participants","number"],
+    "count_female": ["gender", "number"],
+    "percent_female": ["gender", "percent"],
+    "count_male": ["gender", "number"],
+    "percent_male": ["gender", "percent"],
+    "count_gender_unknown": ["gender", "number"],
+    "percent_gender_unknown": ["gender", "percent"],
+	"count_gender_total": ["gender", "number"],
+    "percent_gender_total": ["gender", "percent"],    
+    "count_pacific_islander": ["location", "number"],
+    "percent_pacific_islander": ["location", "percent"],
+    "count_hispanic_latino": ["ethnicity", "number"],
+    "percent_hispanic_latino": ["ethnicity", "percent"],
+    "count_american_indian": ["ethnicity", "number"],
+    "percent_american_indian": ["ethnicity", "percent"],
+    "count_asian_non_hispanic": ["ethnicity", "number"],
+    "percent_asian_non_hispanic": ["ethnicity", "percent"],
+    "count_white_non_hispanic": ["ethnicity", "number"],
+    "percent_white_non_hispanic": ["ethnicity", "percent"],
+    "count_black_non_hispanic": ["ethnicity", "number"],
+    "percent_black_non_hispanic": ["ethnicity", "percent"],
+    "count_ethnicity_unknown": ["ethnicity", "number"],
+    "percent_ethnicity_unknown": ["ethnicity", "percent"],
+    "count_ethnicity_total": ["ethnicity", "number"],
+    "percent_ethnicity_total": ["ethnicity", "percent"],
+
+  }
+
+
+}

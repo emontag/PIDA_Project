@@ -1,0 +1,7 @@
+{
+  "Mapped In NY Companies": {
+    "company_name": ["name"],
+    "address": ["streetaddress"],
+    "url": ["url"]
+  }
+}

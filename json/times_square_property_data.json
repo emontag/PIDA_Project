@@ -1,0 +1,9 @@
+{
+  "Times Square Property Data (Commercial and Retail properties)": {
+    "building_address": ["streetaddress"],
+    "street_name": ["streetaddress"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "postcode": ["zipcode"]
+  }
+}

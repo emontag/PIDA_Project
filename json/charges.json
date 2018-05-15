@@ -1,0 +1,9 @@
+{
+  "Charges": {
+    "city": ["location"],
+    "state": ["location"],
+    "zip": ["zipcode"],
+    "longitude": ["longitude"],
+    "postcode": ["zipcode"]
+  }
+}

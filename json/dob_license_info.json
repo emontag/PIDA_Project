@@ -1,0 +1,13 @@
+{
+  "DOB License Info": {
+    "last_name": ["name"],
+    "first_name": ["name"],
+    "business_zip_code": ["zipcode"],
+    "business_state": ["location"],
+    "postcode": ["zipcode"],
+    "longitude": ["longitude"],
+    "latitude": ["latitude"],
+    "business_street_name": ["streetaddress"],
+    "license_number": ["number"]
+  }
+}

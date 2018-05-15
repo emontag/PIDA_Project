@@ -1,0 +1,9 @@
+{
+  "Alerts": {
+  	"alert_date": ["date"],
+  	"dataset_url": ["url"],
+  	"dataset_name": ["name"],
+    "resolution_date": ["date","time"]
+  }
+}
+

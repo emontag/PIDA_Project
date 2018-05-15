@@ -1,0 +1,10 @@
+{
+  "2014 Green Taxi Trip Data": {
+    "lpep_pickup_datetime": ["dates"],
+    "lpep_dropoff_datetime": ["dates"],
+    "schedule_date": ["dates"],
+    "schedule_time": ["time"],
+    "pickup_longitude": ["longitude"],
+    "pickup_latitude": ["latitude"]
+  }
+}

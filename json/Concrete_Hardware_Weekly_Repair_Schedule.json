@@ -1,0 +1,8 @@
+{
+  "Concrete/Hardware Weekly Repair Schedule": {
+    "day_date": ["date"],
+    "borough": ["location"],
+    "location": ["location"],
+    "details": ["text"]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "NYC Permitted Event Information": {
+    "event_name": ["name"],
+    "event_location": ["location"],
+    "start_date_time": ["dates"]
+  }
+}

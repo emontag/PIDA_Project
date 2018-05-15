@@ -1,0 +1,27 @@
+{
+  "Encroachments and Defacements": {
+  	"complaintid": ["number"],
+  	"srnumber": ["number"],
+  	"complainttype": ["text"],
+    "boro": ["location"],
+    "block": ["location"],
+    "lot": ["location","number"],
+    "number": ["number"],
+    "street": ["streetaddress","location"],
+    "city": ["location"],
+    "state": ["location"],
+    "postcode": ["zipcode"],
+    "initialinspectiondate": ["date"],
+    "initialinspectionresults": ["text"],
+    "ordermailingdate": ["date"],
+    "postinginspectiondate": ["date"],
+    "followupinspectiondate": ["date"],
+    "closeddate": ["date"],
+    "reinspectiondate": ["date"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "community_board": ["number"],
+    "council_district": ["number"],
+    "census_tract": ["number"]
+  }
+}

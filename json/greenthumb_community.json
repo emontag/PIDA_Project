@@ -1,0 +1,10 @@
+{
+  "NYC Greenthumb Community GardensEnvironment": {
+    "address": ["streetaddress"],
+    "postcode": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "neighborhoodname": ["text"],
+    "borough": ["boro"]
+  }
+}

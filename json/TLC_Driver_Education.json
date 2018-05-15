@@ -1,0 +1,8 @@
+{
+  "TLC Driver Education 24 Hour Course Providers (Dataset)": {
+    "streetname": ["streetaddress"],
+    "zipcode": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"]
+  }
+}

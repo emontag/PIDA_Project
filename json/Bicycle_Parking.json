@@ -1,0 +1,14 @@
+{
+  "Bicycle Parking": {
+    "id": ["number"],
+    "speed": ["number"],
+    "travel_time": ["time"],
+    "data_as_of": ["date","time"],
+    "link_id": ["number"],
+    "link_points": ["latitude","longitude"],
+    "owner": ["name"],
+    "transcom_id": ["number"],
+    "borough": ["location"],
+    "link_name": ["location"]
+  }
+}

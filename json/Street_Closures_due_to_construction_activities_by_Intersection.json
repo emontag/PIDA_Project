@@ -1,0 +1,11 @@
+{
+  "Street Closures due to construction activities by Intersection": {
+    "nodeid": ["name"],
+    "onstreetname": ["streetaddress","location"],
+    "fromstreetname": ["streetaddress","location"],
+    "borough_code": ["name","location"],
+    "work_start_date": ["date"],
+    "work_end_date": ["date"],
+    "purpose": ["text"]
+  }
+}

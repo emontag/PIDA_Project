@@ -1,0 +1,8 @@
+{
+  "Public Recycling Bins": {
+    "borough": ["location"],
+    "address": ["streetaddress"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "New York City Farmers Markets": {
+    "facilitystreetname": ["streetaddress"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "facilityzipcode": ["zipcode"]
+  }
+}

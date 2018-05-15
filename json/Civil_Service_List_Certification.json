@@ -1,0 +1,10 @@
+{
+  "Civil Service List Certification": {
+  	"exam_no": ["number"],
+  	"list_no": ["number"],
+  	"first_name": ["name"],
+    "last_name": ["name"],
+    "request_date": ["date","time"],
+  }
+}
+

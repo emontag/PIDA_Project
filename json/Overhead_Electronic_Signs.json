@@ -1,0 +1,11 @@
+{
+  "Overhead Electronic Signs": {
+    "vms": ["name"],
+    "main_roadway": ["location"],
+    "direction": ["name"],
+    "cross_street": ["streetaddress","location"],
+    "borough": ["location"],
+    "type": ["name"],
+    "owner": ["name"]
+  }
+}

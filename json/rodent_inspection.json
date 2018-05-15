@@ -1,0 +1,9 @@
+{
+  "Rodent Inspection": {
+    "date": ["date"],
+    "zip_code": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "street_name": ["streetaddress"]
+  }
+}

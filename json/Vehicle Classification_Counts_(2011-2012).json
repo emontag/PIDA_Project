@@ -1,0 +1,12 @@
+{
+  "Vehicle Classification Counts (2011-2012)": {
+    "id": ["number"],
+    "gis_id": ["name"],
+    "roadway_name": ["name"],
+    "from": ["streetaddress","location"],
+    "to": ["streetaddress","location"],
+    "direction": ["name"],
+    "date": ["date"],
+    "veh_class_type": ["vehicle"]
+  }
+}

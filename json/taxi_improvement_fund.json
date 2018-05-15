@@ -1,0 +1,6 @@
+{
+  "Taxi Improvement Fund (TIF) Medallion Payments": {
+    "license_number": ["licensenumber"],
+    "last_time_updated": ["time"]
+  }
+}

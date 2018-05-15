@@ -1,0 +1,9 @@
+{
+  "Times Square Entertainment Venues": {
+    "company_name": ["name"],
+    "postcode": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "address": ["streetaddress"]
+  }
+}

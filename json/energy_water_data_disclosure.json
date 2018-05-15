@@ -1,0 +1,8 @@
+{
+  "Energy and Water Data Disclosure for Local Law 84 2013 (Data for Calendar Year 2012)": {
+    "street_name": ["streetaddress"],
+    "zip": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"]
+  }
+}

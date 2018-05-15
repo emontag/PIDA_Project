@@ -1,0 +1,8 @@
+{
+  "Emergency Response Incidents": {
+    "location": ["location"],
+    "incident_type": ["text"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"]
+  }
+}

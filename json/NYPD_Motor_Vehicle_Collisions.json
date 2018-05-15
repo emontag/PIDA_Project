@@ -1,0 +1,35 @@
+{
+  "NYPD Motor Vehicle Collisions": {
+    "date": ["date"],
+    "time": ["time"],
+    "borough": ["location"],
+    "zip_code": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "location": ["location"],
+    "on_street_name": ["location","streetaddress"],
+    "off_street_name": ["location","streetaddress"],
+    "cross_street_name": ["location","streetaddress"],
+    "number_of_persons_injured": ["persons_injured","number"],
+    "number_of_persons_killed": ["persons_killed","number"],
+    "number_of_pedestrians_injured": ["persons_injured","number"],
+    "number_of_pedestrians_killed": ["persons_killed","number"],
+    "number_of_cyclist_injured": ["persons_injured","number"],
+    "number_of_cyclist_killed": ["persons_killed","number"],
+    "number_of_motorist_injured": ["persons_injured","number"],
+    "number_of_motorist_killed": ["persons_killed","number"],
+    "contributing_factor_vehicle_1": ["vehicle"],
+    "contributing_factor_vehicle_2": ["vehicle"],
+    "contributing_factor_vehicle_3": ["vehicle"],
+    "contributing_factor_vehicle_4": ["vehicle"],
+    "contributing_factor_vehicle_5": ["vehicle"],
+    "unique_key": ["unique_key"],
+    "vehicle_type_code1": ["vehicle"],
+    "vehicle_type_code2": ["vehicle"],
+    "vehicle_type_code3": ["vehicle"],
+    "vehicle_type_code4": ["vehicle"],
+    "vehicle_type_code5": ["vehicle"]    
+  }
+
+
+}

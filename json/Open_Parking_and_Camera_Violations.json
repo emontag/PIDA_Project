@@ -1,0 +1,17 @@
+{
+  "Open Parking and Camera Violations": {
+    "plate": ["licensenumber"],
+    "state": ["location"],
+    "license_type": ["licensetype"],
+    "issue_date": ["date"],
+    "violation_time": ["time"],
+    "violation": ["name"],
+    "judgment_entry_date": ["date"],
+    "precinct": ["location","number"],
+    "county": ["location"],
+    "issuing_agency": ["name"]
+
+  }
+
+
+}

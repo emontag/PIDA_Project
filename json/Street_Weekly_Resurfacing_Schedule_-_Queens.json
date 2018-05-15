@@ -1,0 +1,9 @@
+{
+  "Street Weekly Resurfacing Schedule - Queens": {
+    "day_date": ["date"],
+    "sa": ["name"],
+    "location": ["location"],
+    "cb": ["number"],
+    "area": ["streetaddress","location"]
+  }
+}

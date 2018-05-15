@@ -1,0 +1,9 @@
+{
+  "2016 NYC Open Data Plan": {
+  	"agency": ["name"],
+  	"dataset_description": ["text"],
+  	"update_frequency": ["text"],
+  	"agency_comment": ["text"]
+  }
+}
+

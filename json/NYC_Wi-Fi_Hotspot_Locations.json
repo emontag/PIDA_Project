@@ -1,0 +1,20 @@
+{
+  "NYC Wi-Fi Hotspot Locations": {
+  	"objectid": ["number"],
+  	"borough": ["streetaddress","location"],
+  	"type": ["text"],
+  	"provider": ["name"],
+  	"name": ["name"],
+  	"location": ["location"],
+  	"latitude": ["latitude"],
+  	"longitude": ["longitude"],
+  	"location_t": ["location"],
+  	"city": ["location"],
+  	"ssid": ["name"],
+  	"borocode": ["number","location"],
+  	"boroname": ["location"],
+  	"zip": ["zipcode"],
+  	"location_lat_long": ["latitude","longitude"]
+  }
+}
+

@@ -1,0 +1,8 @@
+{
+  "Energy and Water Data Disclosure for Local Law 84 2014 (Data for Calendar Year 2013)": {
+    "borough": ["location"],
+    "record_number": ["number"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"]
+  }
+}

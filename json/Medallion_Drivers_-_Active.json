@@ -1,0 +1,15 @@
+{
+  "Medallion Drivers - Active": {
+    "license_number": ["licensenumber"],
+    "name": ["name"],
+    "type": ["licensetype"],
+    "expiration_date": ["date"],
+    "last_updated_date": ["date"],
+    "last_updated_time": ["time"]
+    
+    
+    
+  }
+
+
+}

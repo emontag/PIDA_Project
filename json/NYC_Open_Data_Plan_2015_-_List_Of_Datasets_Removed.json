@@ -1,0 +1,8 @@
+{
+  "NYC Open Data Plan 2015 - List Of Datasets Removed": {
+  	"agency": ["name"],
+  	"dataset": ["name"],
+  	"dataset_description": ["text"],
+  	"reason_for_removal": ["text"]
+}
+

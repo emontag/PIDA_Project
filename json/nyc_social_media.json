@@ -1,0 +1,7 @@
+{
+  "NYC Social Media Usage": {
+    "url": ["url"],
+    "date_sampled": ["dates"],
+    "platform": ["text"]
+  }
+}

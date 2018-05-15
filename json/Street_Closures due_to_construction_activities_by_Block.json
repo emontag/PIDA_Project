@@ -1,0 +1,12 @@
+{
+  "Street Closures due to construction activities by Block": {
+    "segmentid": ["number"],
+    "onstreetname": ["streetaddress","location"],
+    "fromstreetname": ["streetaddress","location"],
+    "tostreetname": ["streetaddress","location"],
+    "borough_code": ["location"],
+    "work_start_date": ["date","time"],
+    "work_end_date": ["date","time"],
+    "purpose": ["text"]
+  }
+}

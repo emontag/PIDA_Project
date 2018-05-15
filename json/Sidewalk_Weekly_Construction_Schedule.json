@@ -1,0 +1,8 @@
+{
+  "Sidewalk Weekly Construction Schedule": {
+    "borough": ["location"],
+    "cb": ["name"],
+    "contract_no": ["name"],
+    "location": ["location"]
+  }
+}

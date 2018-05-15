@@ -1,0 +1,8 @@
+{
+  "Lost Property Contact Information": {
+    "license_number": ["licensenumber"],
+    "name": ["name"],
+    "base_address": ["streetaddress"],
+    "base_website": ["url"]
+  }
+}

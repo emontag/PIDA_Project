@@ -1,0 +1,22 @@
+{
+  "City Record Online": {
+  	"request_id": ["number"],
+  	"start_date": ["date"],
+  	"end_date": ["date"],
+    "agency_name": ["name"],
+    "address_to_request": ["location","streetaddress"],
+    "contact_name": ["name"],
+    "contact_phone": ["phone"],
+    "email": ["email"],
+    "vendor_name": ["name"],
+    "vendor_address": ["streetaddress","location"],
+    "event_date": ["date"],
+    "building_name": ["name"],
+    "street_address_1": ["streetaddress","location"],
+    "street_address_2": ["streetaddress","location"],
+    "city": ["location"],
+    "state": ["location"],
+    "zip_code": ["zipcode"]
+  }
+}
+

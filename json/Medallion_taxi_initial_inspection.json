@@ -1,0 +1,8 @@
+{
+  "Medallion Taxi Initial Inspection Schedule": {
+    "medallion_number": ["licensenumber"],
+    "zipcode": ["zipcode"],
+    "schedule_date": ["dates"],
+    "schedule_time": ["time"]
+  }
+}

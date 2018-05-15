@@ -1,0 +1,9 @@
+{
+  "Directory Of DHS Contacts": {
+    "phone_number": ["phone"],
+    "location_address": ["streetaddress"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"],
+    "name": ["department_name"]
+  }
+}

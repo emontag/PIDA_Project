@@ -1,0 +1,8 @@
+{
+  "DOB NOW: Build – Job Application Filings": {
+    "job_filing_number": ["number"],
+    "street_name": ["streetaddress"],
+    "borough": ["location"],
+    "zip": ["postcode"]
+  }
+}

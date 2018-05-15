@@ -1,0 +1,11 @@
+{
+  "DOF Parking Violation Codes": {
+    "code": ["number"],
+    "definition": ["violation_type"],
+    "manhattan_96th_st_below": ["location","amount"],
+    "all_other_areas": ["location","amount"]
+
+  }
+
+
+}

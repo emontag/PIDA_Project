@@ -1,0 +1,8 @@
+{
+  "2013 Campaign Contributions": {
+    "date": ["date"],
+    "postcode": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"]
+  }
+}

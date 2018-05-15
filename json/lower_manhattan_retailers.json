@@ -1,0 +1,7 @@
+{
+  "Lower Manhattan Retailers": {
+    "cnadrprf_zip": ["zipcode"],
+    "latitude": ["latitude"],
+    "longitude": ["longitude"]
+  }
+}

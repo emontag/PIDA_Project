@@ -1,0 +1,7 @@
+{
+  "FDNY Line Of Duty Deaths": {
+    "name": ["name"],
+    "unit": ["text"],
+    "date": ["date"]
+  }
+}
