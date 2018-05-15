@@ -25,7 +25,7 @@
     "count_ethnicity_unknown": ["ethnicity", "number"],
     "percent_ethnicity_unknown": ["ethnicity", "percent"],
     "count_ethnicity_total": ["ethnicity", "number"],
-    "percent_ethnicity_total": ["ethnicity", "percent"],
+    "percent_ethnicity_total": ["ethnicity", "percent"]
 
   }
 
